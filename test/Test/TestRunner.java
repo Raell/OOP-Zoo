@@ -1,6 +1,7 @@
+package Test;
+
 import org.junit.runner.*;
 import org.junit.runner.notification.*;
-
 
 public class TestRunner {
 

@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Animal {
 
   public String eat(Food food) {

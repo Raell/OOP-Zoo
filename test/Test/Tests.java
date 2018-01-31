@@ -1,5 +1,15 @@
+package Test;
+
+import Zoo.Food;
+import Zoo.Cat;
+import Zoo.Chocolate;
+import Zoo.Dog;
+import Zoo.Animal;
+import Zoo.Fruit;
+import Zoo.Zoo;
 import org.junit.*;
 import static org.junit.Assert.*;
+import Zoo.*;
 
 public class Tests {
 
